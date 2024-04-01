@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-from app.logging_utility import LoggingUtility
+from logging import LoggingUtility
 
 # Configure logging for this module
 logger = LoggingUtility.get_logger('CalculationHistoryManager')
