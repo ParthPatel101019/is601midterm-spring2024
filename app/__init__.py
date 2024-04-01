@@ -4,9 +4,9 @@ import sys
 import pkgutil
 import importlib
 from dotenv import load_dotenv
-import logging
 from app.commands import CommandHandler, Command
-from logging import LoggingUtility
+import logging
+from mylogging import LoggingUtility
 
 class App:
     def __init__(self):
@@ -57,7 +57,10 @@ class App:
                 logging.info("Exiting Calculator App.")
                 break
             try:
-                self.command_handler.execute_command(command_input)
+                parts = command_input.split()
+                command_name = parts[0].lower()
+                args = parts[1:]
+                self.command_handler.execute_command(command_name, *args)
             except KeyError:
                 logging.error(f"Unknown command: {command_input}")
         logging.info("Calculator App shutdown.")

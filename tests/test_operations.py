@@ -39,4 +39,3 @@ def test_multiply_command(operand1, operand2, expected):
 def test_divide_command(operand1, operand2, expected):
     command = Divide()
     assert command.execute(operand1, operand2) == expected
-

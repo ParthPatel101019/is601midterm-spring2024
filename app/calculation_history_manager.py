@@ -1,6 +1,8 @@
 import pandas as pd
 import os
-from logging import LoggingUtility
+from mylogging import LoggingUtility
+import warnings
+
 
 # Configure logging for this module
 logger = LoggingUtility.get_logger('CalculationHistoryManager')
@@ -15,7 +17,10 @@ class CalculationHistoryManager:
     def add_record(self, operation, operand1, operand2, result):
         try:
             df = pd.read_csv(self.filename)
-            df = df.append({'Operation': operation, 'Operand1': operand1, 'Operand2': operand2, 'Result': result}, ignore_index=True)
+            
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore", FutureWarning)
+                df = df._append({'Operation': operation, 'Operand1': operand1, 'Operand2': operand2, 'Result': result}, ignore_index=True)
             df.to_csv(self.filename, index=False)
             logger.info(f"Record added: {operation} {operand1} {operand2} = {result}")
         except Exception as e:

@@ -1,17 +1,17 @@
 from app.commands import Command
 from app.calculation_history_manager import CalculationHistoryManager
-from logging import LoggingUtility
+from mylogging import LoggingUtility
 
 # Get a logger for this module
 logger = LoggingUtility.get_logger('HistoryPlugin')
 
-class HistoryCommand(Command):
+class History(Command):
     def __init__(self):
         self.manager = CalculationHistoryManager()
 
     def execute(self, *args):
         try:
-            if not args:
+            if not args or args[0] == 'view':
                 df = self.manager.view_history()
                 if df is not None:
                     print(df)

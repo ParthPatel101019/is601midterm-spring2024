@@ -1,0 +1,316 @@
+2024-03-31 22:33:56 - root - INFO - Logging configured.
+2024-03-31 22:33:56 - root - INFO - Environment variables loaded.
+2024-03-31 22:33:56 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:33:56 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:33:56 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:38:49 - root - INFO - Logging configured.
+2024-03-31 22:38:49 - root - INFO - Environment variables loaded.
+2024-03-31 22:38:50 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:38:50 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:38:50 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:39:05 - root - INFO - Logging configured.
+2024-03-31 22:39:05 - root - INFO - Environment variables loaded.
+2024-03-31 22:39:05 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:39:05 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:39:05 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:39:27 - root - INFO - Logging configured.
+2024-03-31 22:39:27 - root - INFO - Environment variables loaded.
+2024-03-31 22:39:27 - root - INFO - Command 'add' registered.
+2024-03-31 22:39:27 - root - INFO - Command 'divide' registered.
+2024-03-31 22:39:28 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:39:28 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:39:28 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:39:28 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:39:28 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:39:44 - root - INFO - Logging configured.
+2024-03-31 22:39:44 - root - INFO - Environment variables loaded.
+2024-03-31 22:39:44 - root - INFO - Command 'add' registered.
+2024-03-31 22:39:44 - root - INFO - Command 'divide' registered.
+2024-03-31 22:39:44 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:39:44 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:39:44 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:39:44 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:39:44 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:40:04 - root - INFO - Logging configured.
+2024-03-31 22:40:04 - root - INFO - Environment variables loaded.
+2024-03-31 22:40:04 - root - INFO - Command 'add' registered.
+2024-03-31 22:40:04 - root - INFO - Command 'divide' registered.
+2024-03-31 22:40:04 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:40:04 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:40:04 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:40:04 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:40:04 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:42:02 - root - INFO - Logging configured.
+2024-03-31 22:42:02 - root - INFO - Environment variables loaded.
+2024-03-31 22:42:02 - root - INFO - Command 'add' registered.
+2024-03-31 22:42:02 - root - INFO - Command 'divide' registered.
+2024-03-31 22:42:02 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:42:02 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:42:02 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:42:02 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:42:02 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:43:23 - root - INFO - Logging configured.
+2024-03-31 22:43:23 - root - INFO - Environment variables loaded.
+2024-03-31 22:43:23 - root - INFO - Command 'add' registered.
+2024-03-31 22:43:23 - root - INFO - Command 'divide' registered.
+2024-03-31 22:43:23 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:43:23 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:43:23 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:43:23 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:43:23 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:43:49 - root - INFO - Exiting Calculator App.
+2024-03-31 22:43:49 - root - INFO - Calculator App shutdown.
+2024-03-31 22:43:52 - root - INFO - Logging configured.
+2024-03-31 22:43:52 - root - INFO - Environment variables loaded.
+2024-03-31 22:43:52 - root - INFO - Command 'add' registered.
+2024-03-31 22:43:52 - root - INFO - Command 'divide' registered.
+2024-03-31 22:43:52 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:43:52 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:43:52 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:43:52 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:43:52 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:45:18 - root - INFO - Logging configured.
+2024-03-31 22:45:18 - root - INFO - Environment variables loaded.
+2024-03-31 22:45:18 - root - INFO - Command 'add' registered.
+2024-03-31 22:45:18 - root - INFO - Command 'divide' registered.
+2024-03-31 22:45:18 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:45:18 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:45:18 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:45:18 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:45:18 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:45:43 - root - INFO - Logging configured.
+2024-03-31 22:45:43 - root - INFO - Environment variables loaded.
+2024-03-31 22:45:43 - root - INFO - Command 'add' registered.
+2024-03-31 22:45:43 - root - INFO - Command 'divide' registered.
+2024-03-31 22:45:43 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:45:43 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:45:43 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:45:43 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:45:43 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:46:15 - root - INFO - Logging configured.
+2024-03-31 22:46:15 - root - INFO - Environment variables loaded.
+2024-03-31 22:46:15 - root - INFO - Command 'add' registered.
+2024-03-31 22:46:15 - root - INFO - Command 'divide' registered.
+2024-03-31 22:46:15 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:46:15 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:46:15 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:46:15 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:46:15 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:46:19 - root - INFO - Logging configured.
+2024-03-31 22:46:19 - root - INFO - Environment variables loaded.
+2024-03-31 22:46:19 - root - INFO - Command 'add' registered.
+2024-03-31 22:46:19 - root - INFO - Command 'divide' registered.
+2024-03-31 22:46:19 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:46:19 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:46:19 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:46:19 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:46:19 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:47:02 - root - INFO - Logging configured.
+2024-03-31 22:47:02 - root - INFO - Environment variables loaded.
+2024-03-31 22:47:02 - root - INFO - Command 'add' registered.
+2024-03-31 22:47:02 - root - INFO - Command 'divide' registered.
+2024-03-31 22:47:02 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:47:02 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:47:02 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:47:02 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:47:02 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:47:07 - root - INFO - Logging configured.
+2024-03-31 22:47:07 - root - INFO - Environment variables loaded.
+2024-03-31 22:47:07 - root - INFO - Command 'add' registered.
+2024-03-31 22:47:07 - root - INFO - Command 'divide' registered.
+2024-03-31 22:47:08 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:47:08 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:47:08 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:47:08 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:47:08 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:47:16 - root - INFO - Logging configured.
+2024-03-31 22:47:16 - root - INFO - Environment variables loaded.
+2024-03-31 22:47:16 - root - INFO - Command 'add' registered.
+2024-03-31 22:47:16 - root - INFO - Command 'divide' registered.
+2024-03-31 22:47:17 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:47:17 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:47:17 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:47:17 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:47:17 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:48:12 - root - INFO - Logging configured.
+2024-03-31 22:48:12 - root - INFO - Environment variables loaded.
+2024-03-31 22:48:12 - root - INFO - Command 'add' registered.
+2024-03-31 22:48:12 - root - INFO - Command 'divide' registered.
+2024-03-31 22:48:12 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:48:12 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:48:12 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:48:12 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:48:12 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:48:23 - root - INFO - Logging configured.
+2024-03-31 22:48:23 - root - INFO - Environment variables loaded.
+2024-03-31 22:48:23 - root - INFO - Command 'add' registered.
+2024-03-31 22:48:23 - root - INFO - Command 'divide' registered.
+2024-03-31 22:48:23 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:48:23 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:48:23 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:48:23 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:48:23 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:48:27 - root - INFO - Logging configured.
+2024-03-31 22:48:27 - root - INFO - Environment variables loaded.
+2024-03-31 22:48:27 - root - INFO - Command 'add' registered.
+2024-03-31 22:48:27 - root - INFO - Command 'divide' registered.
+2024-03-31 22:48:28 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:48:28 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:48:28 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:48:28 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:48:28 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:49:12 - root - INFO - Logging configured.
+2024-03-31 22:49:12 - root - INFO - Environment variables loaded.
+2024-03-31 22:49:12 - root - INFO - Command 'add' registered.
+2024-03-31 22:49:12 - root - INFO - Command 'divide' registered.
+2024-03-31 22:49:13 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:49:13 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:49:13 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:49:13 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:49:13 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:50:38 - root - INFO - Logging configured.
+2024-03-31 22:50:38 - root - INFO - Environment variables loaded.
+2024-03-31 22:50:38 - root - INFO - Command 'add' registered.
+2024-03-31 22:50:38 - root - INFO - Command 'divide' registered.
+2024-03-31 22:50:38 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:50:38 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:50:38 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:50:38 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:50:38 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:50:48 - root - INFO - Logging configured.
+2024-03-31 22:50:48 - root - INFO - Environment variables loaded.
+2024-03-31 22:50:48 - root - INFO - Command 'add' registered.
+2024-03-31 22:50:48 - root - INFO - Command 'divide' registered.
+2024-03-31 22:50:49 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:50:49 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:50:49 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:50:49 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:50:49 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:50:50 - root - INFO - Adding 1 and 2: 3.0
+2024-03-31 22:52:03 - root - INFO - Logging configured.
+2024-03-31 22:52:03 - root - INFO - Environment variables loaded.
+2024-03-31 22:52:03 - root - INFO - Command 'add' registered.
+2024-03-31 22:52:03 - root - INFO - Command 'divide' registered.
+2024-03-31 22:52:04 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:52:04 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:52:04 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:52:04 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:52:04 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:52:11 - root - INFO - Logging configured.
+2024-03-31 22:52:11 - root - INFO - Environment variables loaded.
+2024-03-31 22:52:11 - root - INFO - Command 'add' registered.
+2024-03-31 22:52:11 - root - INFO - Command 'divide' registered.
+2024-03-31 22:52:11 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:52:11 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:52:11 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:52:11 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:52:11 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:52:17 - root - INFO - Logging configured.
+2024-03-31 22:52:17 - root - INFO - Environment variables loaded.
+2024-03-31 22:52:17 - root - INFO - Command 'add' registered.
+2024-03-31 22:52:17 - root - INFO - Command 'divide' registered.
+2024-03-31 22:52:18 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:52:18 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:52:18 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:52:18 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:52:18 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:52:20 - root - INFO - Adding 1 and 2: 3.0
+2024-03-31 22:52:27 - root - INFO - Subtracting 2 from 10: 8.0
+2024-03-31 22:52:59 - root - INFO - Logging configured.
+2024-03-31 22:52:59 - root - INFO - Environment variables loaded.
+2024-03-31 22:52:59 - root - INFO - Command 'add' registered.
+2024-03-31 22:52:59 - root - INFO - Command 'divide' registered.
+2024-03-31 22:53:00 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:53:00 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:53:00 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:53:00 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:53:00 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:53:04 - root - INFO - Subtracting 10 from 2: -8.0
+2024-03-31 22:53:10 - root - INFO - Multiplying 3 and 9: 27.0
+2024-03-31 22:53:17 - root - INFO - Multiplying 3 and 0: 0.0
+2024-03-31 22:53:21 - root - INFO - Dividing 10 by 3: 3.3333333333333335
+2024-03-31 22:53:26 - root - INFO - Logging configured.
+2024-03-31 22:53:26 - root - INFO - Environment variables loaded.
+2024-03-31 22:53:26 - root - INFO - Command 'add' registered.
+2024-03-31 22:53:26 - root - INFO - Command 'divide' registered.
+2024-03-31 22:53:27 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:53:27 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:53:27 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:53:27 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:53:27 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:53:31 - root - INFO - Dividing 0 by 10: 0.0
+2024-03-31 22:53:35 - root - WARNING - Attempted to divide by zero
+2024-03-31 22:53:57 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 22:53:57 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 22:56:08 - root - INFO - Logging configured.
+2024-03-31 22:56:08 - root - INFO - Environment variables loaded.
+2024-03-31 22:56:08 - root - INFO - Command 'add' registered.
+2024-03-31 22:56:08 - root - INFO - Command 'divide' registered.
+2024-03-31 22:56:08 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:56:08 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:56:08 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:56:08 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:56:08 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:56:09 - root - INFO - Adding 1 and 2: 3.0
+2024-03-31 22:56:09 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:56:09 - CalculationHistoryManager - ERROR - Failed to add record: 'DataFrame' object has no attribute 'append'
+2024-03-31 22:56:14 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 22:56:14 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 22:58:57 - root - INFO - Logging configured.
+2024-03-31 22:58:57 - root - INFO - Environment variables loaded.
+2024-03-31 22:58:57 - root - INFO - Command 'add' registered.
+2024-03-31 22:58:57 - root - INFO - Command 'divide' registered.
+2024-03-31 22:58:57 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:58:57 - root - INFO - Command 'historycommand' registered.
+2024-03-31 22:58:57 - root - INFO - Command 'multiply' registered.
+2024-03-31 22:58:57 - root - INFO - Command 'subtract' registered.
+2024-03-31 22:58:57 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 22:58:58 - root - INFO - Adding 1 and 2: 3.0
+2024-03-31 22:58:58 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 22:58:58 - CalculationHistoryManager - INFO - Record added: Add 1 2 = 3.0
+2024-03-31 23:00:45 - root - INFO - Logging configured.
+2024-03-31 23:00:45 - root - INFO - Environment variables loaded.
+2024-03-31 23:00:46 - root - INFO - Command 'add' registered.
+2024-03-31 23:00:46 - root - INFO - Command 'divide' registered.
+2024-03-31 23:00:46 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:00:46 - root - INFO - Command 'historycommand' registered.
+2024-03-31 23:00:46 - root - INFO - Command 'multiply' registered.
+2024-03-31 23:00:46 - root - INFO - Command 'subtract' registered.
+2024-03-31 23:00:46 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 23:00:47 - root - INFO - Adding 1 and 2: 3.0
+2024-03-31 23:00:47 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:00:47 - CalculationHistoryManager - INFO - Record added: Add 1 2 = 3.0
+2024-03-31 23:00:51 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:00:51 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 23:00:59 - root - INFO - Adding 4 and 5: 9.0
+2024-03-31 23:00:59 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:00:59 - CalculationHistoryManager - INFO - Record added: Add 4 5 = 9.0
+2024-03-31 23:01:03 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:01:03 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 23:03:17 - HistoryPlugin - INFO - Executed history command with args: ('view',)
+2024-03-31 23:03:22 - CalculationHistoryManager - INFO - History cleared.
+2024-03-31 23:03:22 - HistoryPlugin - INFO - Executed history command with args: ('clear',)
+2024-03-31 23:03:26 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:03:26 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 23:03:56 - root - INFO - Logging configured.
+2024-03-31 23:03:56 - root - INFO - Environment variables loaded.
+2024-03-31 23:03:56 - root - INFO - Command 'add' registered.
+2024-03-31 23:03:56 - root - INFO - Command 'divide' registered.
+2024-03-31 23:03:56 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:03:56 - root - INFO - Command 'history' registered.
+2024-03-31 23:03:56 - root - INFO - Command 'multiply' registered.
+2024-03-31 23:03:56 - root - INFO - Command 'subtract' registered.
+2024-03-31 23:03:56 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-03-31 23:03:58 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:03:58 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 23:04:03 - root - INFO - Adding 3 and 5: 8.0
+2024-03-31 23:04:03 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:04:03 - CalculationHistoryManager - INFO - Record added: Add 3 5 = 8.0
+2024-03-31 23:04:05 - root - INFO - Adding 4 and 67: 71.0
+2024-03-31 23:04:05 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-03-31 23:04:05 - CalculationHistoryManager - INFO - Record added: Add 4 67 = 71.0
+2024-03-31 23:04:07 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:04:07 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-03-31 23:04:10 - CalculationHistoryManager - INFO - History viewed.
+2024-03-31 23:04:10 - HistoryPlugin - INFO - Executed history command with args: ('view',)
+2024-03-31 23:04:48 - HistoryPlugin - INFO - Executed history command with args: ('load',)

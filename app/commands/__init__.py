@@ -1,9 +1,10 @@
 from abc import ABC, abstractmethod
 
 class Command(ABC):
-    @abstractmethod
-    def execute(self, *args):
-        pass
+    pass
+    # @abstractmethod
+    # def execute(self, *args):
+    #     pass
 
 class CommandHandler:
     def __init__(self):
@@ -14,7 +15,8 @@ class CommandHandler:
 
     def execute_command(self, command_name: str, *args):
         if command_name in self.commands:
-            self.commands[command_name].execute(*args)
+            cmd = self.commands[command_name]
+            cmd.execute(*args)
         else:
             print(f"No such command: {command_name}")
 
