@@ -314,3 +314,19 @@
 2024-03-31 23:04:10 - CalculationHistoryManager - INFO - History viewed.
 2024-03-31 23:04:10 - HistoryPlugin - INFO - Executed history command with args: ('view',)
 2024-03-31 23:04:48 - HistoryPlugin - INFO - Executed history command with args: ('load',)
+2024-04-01 00:20:25 - root - INFO - Logging configured.
+2024-04-01 00:20:25 - root - INFO - Environment variables loaded.
+2024-04-01 00:20:25 - root - INFO - Command 'add' registered.
+2024-04-01 00:20:25 - root - INFO - Command 'divide' registered.
+2024-04-01 00:20:25 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-04-01 00:20:25 - root - INFO - Command 'history' registered.
+2024-04-01 00:20:25 - root - INFO - Command 'multiply' registered.
+2024-04-01 00:20:25 - root - INFO - Command 'subtract' registered.
+2024-04-01 00:20:25 - root - INFO - Calculator App started. Type 'exit' to exit.
+2024-04-01 00:20:31 - root - INFO - Adding 12 and 3: 15.0
+2024-04-01 00:20:31 - CalculationHistoryManager - INFO - History manager initialized with file: calculation_history.csv
+2024-04-01 00:20:31 - CalculationHistoryManager - INFO - Record added: Add 12 3 = 15.0
+2024-04-01 00:20:38 - CalculationHistoryManager - INFO - History viewed.
+2024-04-01 00:20:38 - HistoryPlugin - INFO - Executed history command with args: ()
+2024-04-01 00:20:51 - CalculationHistoryManager - INFO - History cleared.
+2024-04-01 00:20:51 - HistoryPlugin - INFO - Executed history command with args: ('clear',)
